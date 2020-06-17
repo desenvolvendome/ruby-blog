@@ -1,4 +1,4 @@
-# ruby-blog
+# Blog
 
 ## Commit
 
